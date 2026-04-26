@@ -6,7 +6,7 @@ A multiplayer Werewolf party game built with Spring Boot and Thymeleaf, featurin
 
 - **Backend:** Java 17 + Spring Boot 3.3.2
 - **Templating:** Thymeleaf
-- **Database:** H2 (file-based, persisted to `data/werewolf.mv.db`)
+- **Database:** H2 
 - **ORM:** Spring Data JPA / Hibernate
 - **Auth:** Session-based + BCrypt password hashing
 - **Build:** Maven
